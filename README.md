@@ -12,9 +12,7 @@ python main.py
 ```
 to test the performance on American college football network
 
-Please consider citing our paper if you find the code useful
----
-[Adaptive modularity maximization via edge weighting scheme](https://www.sciencedirect.com/science/article/pii/S0020025517301068)
+Please consider citing our paper [Adaptive modularity maximization via edge weighting scheme](https://www.sciencedirect.com/science/article/pii/S0020025517301068) if you find the code useful
 ```
 @article{lu2018adaptive,
   title={Adaptive modularity maximization via edge weighting scheme},
