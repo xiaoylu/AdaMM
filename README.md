@@ -1,4 +1,4 @@
-# AdaptiveMM
+# Adaptive Modularity Maximization
 
 Similarity measure between data points plays an important role in clustering. In network science, the community detection algorithms can be also significantly improved by using proper edge weighting scheme. The focus of our study is how to build a novel model which assigns such optimal weights to edges.
 
@@ -11,3 +11,16 @@ We have provided the Python code for the training of our regression model on git
 python main.py
 ```
 to test the performance on American college football network
+
+Please consider citing our paper if you find the code useful
+```
+@article{lu2018adaptive,
+  title={Adaptive modularity maximization via edge weighting scheme},
+  author={Lu, Xiaoyan and Kuzmin, Konstantin and Chen, Mingming and Szymanski, Boleslaw K},
+  journal={Information Sciences},
+  volume={424},
+  pages={55--68},
+  year={2018},
+  publisher={Elsevier}
+}
+```
